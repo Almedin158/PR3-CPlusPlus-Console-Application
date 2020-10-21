@@ -1,0 +1,23 @@
+﻿  Github1.cpp
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(29,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(195,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(203,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(215,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(257,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(282,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(308,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(334,37): warning C4267: 'argument': conversion from 'size_t' to 'T2', possible loss of data
+          with
+          [
+              T2=int
+          ]
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(334,37): warning C4267: 'argument': conversion from 'size_t' to 'T1', possible loss of data
+          with
+          [
+              T1=int
+          ]
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(66,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(64): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)'
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(335): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)' being compiled
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\Github1.cpp(332): message : see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+  Github1.vcxproj -> C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak1\Rjesenje\x64\Debug\Github1.exe

@@ -1,0 +1,5 @@
+﻿  Github2.cpp
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak2\Rjesenje\Github2.cpp(7,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak2\Rjesenje\Github2.cpp(218,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak2\Rjesenje\Github2.cpp(167): warning C4715: 'Rezervacije::operator+=': not all control paths return a value
+  Github2.vcxproj -> C:\Users\Korisnik\Desktop\PR3 (C++) Console Applications\Zadatak2\Rjesenje\x64\Debug\Github2.exe

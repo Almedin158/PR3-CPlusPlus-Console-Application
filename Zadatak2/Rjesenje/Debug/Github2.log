@@ -1,0 +1,4 @@
+﻿  Github2.cpp
+C:\Users\Korisnik\source\repos\Github2\Github2.cpp(218,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Korisnik\source\repos\Github2\Github2.cpp(167): warning C4715: 'Rezervacije::operator+=': not all control paths return a value
+  Github2.vcxproj -> C:\Users\Korisnik\source\repos\Github2\Debug\Github2.exe

@@ -1,0 +1,34 @@
+﻿  Github1.cpp
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(194,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(201,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(214,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(255,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(264,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(308,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(106,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(99): message : while compiling class template member function 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)'
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(340): message : see reference to function template instantiation 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)' being compiled
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(332): message : see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(89,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(84): message : while compiling class template member function 'void Kolekcija<int,int>::SortOpadajuciByT2(void)'
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(341): message : see reference to function template instantiation 'void Kolekcija<int,int>::SortOpadajuciByT2(void)' being compiled
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(72,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(69): message : while compiling class template member function 'void Kolekcija<int,int>::AddElement(T1,T2)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(334): message : see reference to function template instantiation 'void Kolekcija<int,int>::AddElement(T1,T2)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(65,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(64): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)'
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(335): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)' being compiled
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(50,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(46): message : while compiling class template member function 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)'
+C:\Users\Korisnik\source\repos\IspitniZadatak1\Github1.cpp(337): message : see reference to function template instantiation 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)' being compiled
+  Github1.vcxproj -> C:\Users\Korisnik\source\repos\IspitniZadatak1\Debug\Github1.exe
